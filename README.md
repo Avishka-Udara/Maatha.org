@@ -10,8 +10,6 @@ A comprehensive Laravel project for [brief project description].
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
 - [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
