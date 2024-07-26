@@ -7,9 +7,7 @@ return [
     "typedwords3" => "Together, Let's Build Our Dreams.",
 
     "header2" => "Maatha World Foundation",
-    "Description" => "Maatha World Foundation, a non-profit organization with a vision of making
-    Sri Lanka economically self-reliant, is making waves in the community by creating teams in
-    Grama Niladhari Divisions (GNDs) to promote Wealth Creation and Human Capital Development.",
+    "Description" => "The People's Livelihood Development Foundation (PLDF) is a Sri Lankan non-governmental organization (NGO) founded in 2016. Its main objective is to improve the well-being of Sri Lankan citizens, particularly those in underprivileged communities. PLDF's MAATHA Program focuses on health promotion and livelihood development at the village level, aiming to contribute to the long-term prosperity of the country. The program is led by a diverse group of professionals who volunteer their skills and knowledge to help those in need. PLDF believes that by improving the lives of individuals and communities, it can contribute to the overall economic and social development of Sri Lanka.",
 
     "header3" => "Our Vision",
     "Description1" => "Our Motherland to be recognized as a Compassionate and Caring Country.",
