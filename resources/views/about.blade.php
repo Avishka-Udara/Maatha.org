@@ -62,7 +62,7 @@
         <div class="site-section">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-6" style="padding-top:10%;">
                         <img src="{{ asset('assets/images/maatha_logo.svg') }}" alt="Image" class="img-fluid rounded">
                     </div>
                     <div class="col-md-5 ml-auto mt-5">
